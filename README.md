@@ -1,10 +1,10 @@
 # CreatingOrganizations
 Creating and configuring an organization with Security Control Policies
 
-<h1><a href="https://app.tango.us/app/workflow/1a8be7b6-ad9e-4357-961a-17ae952b94bd?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target='_blank'>Creating and configuring an organization</a></h1>
+<h2>Creating and configuring an organization</h2>
 <div><b>Creation Date:</b> November 20, 2023</div>
 <div><b>Created By:</b> Yeison Giraldo</div>
-<div><a href="https://app.tango.us/app/workflow/1a8be7b6-ad9e-4357-961a-17ae952b94bd?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target='_blank'>View most recent version on Tango.us</a></div>
+
 <div style="height: 24px">&#8203;</div>
 <hr />
 <div style="height: 24px">&#8203;</div>
