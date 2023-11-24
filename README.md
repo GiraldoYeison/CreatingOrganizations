@@ -1,7 +1,4 @@
-# CreatingOrganizations
-Creating and configuring an organization with Security Control Policies
-
-<h2>Creating and configuring an organization</h2>
+<h1>Creating and configuring an organization<</h1>
 <div><b>Creation Date:</b> November 20, 2023</div>
 <div><b>Created By:</b> Yeison Giraldo</div>
 
@@ -34,7 +31,7 @@ Creating and configuring an organization with Security Control Policies
 </div>
 
 <div><h3>6. Once you log in to your account search for AWS Organizations</h3>
-<img src="https://images.tango.us/workflows/1a8be7b6-ad9e-4357-961a-17ae952b94bd/steps/7f306254-87bc-415d-8688-82b3d9c3d421/580ab8e8-b723-4e2b-9bd6-c5d3e21357c4.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=129&mark-y=189&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTMlMkNGRjc0NDImdz0xMDEmaD0yMCZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" style="border-radius: 8px; border: 1px solid #F4F2F7;" width="600" alt="Once you log in to your account search for AWS Organizations" />
+<img src="https://images.tango.us/workflows/1a8be7b6-ad9e-4357-961a-17ae952b94bd/steps/7f306254-87bc-415d-8688-82b3d9c3d421/99b332cf-ce40-4161-864d-eae3826db966.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=129&mark-y=189&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTMlMkNGRjc0NDImdz0xMDEmaD0yMCZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" style="border-radius: 8px; border: 1px solid #F4F2F7;" width="600" alt="Once you log in to your account search for AWS Organizations" />
 </div>
 
 <div><h3>7. AWS Management Console</h3>
@@ -43,12 +40,12 @@ Creating and configuring an organization with Security Control Policies
 
 <div><h3>8. Invite an existing account to join your organization</h3>
 <h6>To invite an existing account to join</h6><ol><li><p>Navigate to the <a target="_blank" rel="noopener noreferrer nofollow" href="https://console.aws.amazon.com/organizations/v2/home/accounts"><strong>AWS accounts</strong></a> page, and choose <strong>Add an AWS account</strong>.</p></li></ol>
-<img src="https://images.tango.us/workflows/1a8be7b6-ad9e-4357-961a-17ae952b94bd/steps/e9ed5e3f-d65a-4777-ab32-58756edcf368/7eb5c57a-f313-41a6-b767-d5a9b38c032f.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=1010&mark-y=99&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTMlMkNGRjc0NDImdz0xODImaD0zOCZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" style="border-radius: 8px; border: 1px solid #F4F2F7;" width="600" alt="Invite an existing account to join your organization" />
+<img src="https://images.tango.us/workflows/1a8be7b6-ad9e-4357-961a-17ae952b94bd/steps/e9ed5e3f-d65a-4777-ab32-58756edcf368/3dbe73b7-6c1d-461e-9129-881bb132b63b.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=1010&mark-y=99&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTMlMkNGRjc0NDImdz0xODImaD0zOCZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" style="border-radius: 8px; border: 1px solid #F4F2F7;" width="600" alt="Invite an existing account to join your organization" />
 </div>
 
 <div><h3>9. Invite an existing AWS account</h3>
 <ol><li><p>In the box <strong>Email address or account ID of an AWS account to invite</strong> box, enter the email address of the owner of the account that you want to invite, similar to the following: <code>member222@example.com</code>. Alternatively, if you know the AWS account ID number, then you can enter it instead.</p></li><li><p>Type any text that you want into the <strong>Message to include in the invitation email message</strong> box. This text is included in the email that is sent to the owner of the account.</p></li><li><p>Choose <strong>Send invitation</strong>. AWS Organizations sends the invitation to the account owner.</p></li></ol>
-<img src="https://images.tango.us/workflows/1a8be7b6-ad9e-4357-961a-17ae952b94bd/steps/203e477c-8123-41e8-8a03-f17188bf50b6/e01c5ccb-4c46-493c-a592-4fa37af109f7.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.4265&fp-y=0.4588&fp-z=1.3819&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=249&mark-y=328&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz03MDMmaD00MiZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" style="border-radius: 8px; border: 1px solid #F4F2F7;" width="600" alt="Invite an existing AWS account" />
+<img src="https://images.tango.us/workflows/1a8be7b6-ad9e-4357-961a-17ae952b94bd/steps/203e477c-8123-41e8-8a03-f17188bf50b6/c0516eb3-a0d1-425d-8472-6d3e1a36d107.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.4265&fp-y=0.4588&fp-z=1.3819&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=249&mark-y=328&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz03MDMmaD00MiZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" style="border-radius: 8px; border: 1px solid #F4F2F7;" width="600" alt="Invite an existing AWS account" />
 </div>
 
 <div><h3>10. Create a member account</h3>
