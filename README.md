@@ -7,7 +7,7 @@
 <div style="height: 24px">&#8203;</div>
 
 
-<div><h2><a href="https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#"># Logging as root to your account</a></h2><p>Remember as best Practice is not to use your root account, in this tutorial we are </p>
+<div><h2># Logging as root to your account</h2><p>Remember as best Practice is not to use your root account, in this tutorial we are </p>
 </div>
 
 <div><h3>1. The following illustration shows the main steps of the tutorial.</h3>
